@@ -1,0 +1,10 @@
+<!DOCTTPE html>
+<html lang="pt-br">
+<head>
+	<title>Projeto Git</title>
+</head>
+<body>
+
+</body>
+
+</html>
